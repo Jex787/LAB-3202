@@ -1,0 +1,8 @@
+1. open three terminal
+2. in first terminal run
+    javac serverPart.java clientPart.java
+    (this will create class file)
+3. in second terminal run:
+    java serverPart
+4. in third terminal run:
+    java clientPart
